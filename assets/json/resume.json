@@ -170,14 +170,14 @@
   ],
   "publications": [
     {
-      "name": "Model Predictive Control Strategies in mHealth: Optimal Personalized Physical Activity Interventions",
-      "publisher": "Journal of Process Control",
-      "status": "In Review"
+      "name": "Data-Driven Mobile Health: System Identification and Hybrid Model Predictive Control to Deliver Personalized Physical Activity Interventions",
+      "publisher": "IEEE Open Journal of Control Systems",
+      "doi": "10.1109/OJCSYS.2025.3538263",
+      "status": "Published"
     },
     {
-      "name": "System Identification of Engagement in mHealth Intervention with Bayesian Imputation",
-      "publisher": "IEEE Open Journal of Engineering in Medicine and Biology",
-      "status": "In Review"
+      "name": "Understanding “Just-in-Time” States in Behavioral Interventions using System Identification and Data Science Methods",
+      "publisher": "Elsevier"
     }
   ],
   "references": [],

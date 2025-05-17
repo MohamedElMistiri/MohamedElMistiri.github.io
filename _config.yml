@@ -38,7 +38,7 @@ repo_trophies:
 
 
 # enable video embedding 
-enable_video_embedding: true # enables video embedding for bibtex entries
+# enable_video_embedding: true # enables video embedding for bibtex entries
 
 # -----------------------------------------------------------------------------
 # RSS Feed
