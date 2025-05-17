@@ -48,3 +48,5 @@ Especially as they apply to **process industries**, **robotics**, **healthcare**
 I'm currently **open to full-time opportunities** where I can bring a control systems engineering mindset, hands-on technical expertise, and a collaborative spirit to innovative teams tackling real-world challenges.
 
 **Let’s connect** — whether it’s to explore research ideas, discuss collaboration, or chat about how we can build smarter, more efficient technologies together.
+
+{% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY" class="img-fluid rounded z-depth-1" width="560" height="315" caption="Better Notifications for Better Health" %}
