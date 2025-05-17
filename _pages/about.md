@@ -32,7 +32,7 @@ Mohamed El Mistiri received the B.S. degree in chemical engineering from Arizona
 
 Hi, I'm **Mohamed El Mistiri**, a passionate researcher and engineer driven by curiosity, creativity, and a deep fascination with how intelligent systems interact with the world. I'm currently a **Postdoctoral Research Scholar** at **[Arizona State University’s (ASU)](https://scai.engineering.asu.edu/)** **[Interactive Robotics Laboratory](https://interactive-robotics.engineering.asu.edu/)**, where I work with **[Prof. Heni Ben Amor](https://henibenamor.weebly.com/about.html)** on the exciting intersection of **machine learning**, **artificial intelligence**, and **control systems engineering** in robotics.
 
-My academic journey began with a **B.S. in Chemical Engineering** from **[ASU](https://semte.engineering.asu.edu/)** in 2017, followed by an **M.S. in 2023** and a **Ph.D. in 2024**, where I specialized in **control systems engineering** under the supervision of **[Prof. Daniel E. Rivera](https://search.asu.edu/profile/29494)**. During my Ph.D., I was part of the **[Control Systems Engineering Lab](https://labs.engineering.asu.edu/csel/)**, where I developed dynamic models and optimization strategies for complex process systems including **chemical processes**, **healthcare technologies**, and **supply chain optimization**  -- skills I now integrate with ML, and AI in **robotic systems** 😎.
+My academic journey began with a **B.S. in Chemical Engineering** from **[ASU](https://semte.engineering.asu.edu/)** in 2017, followed by an **M.S. in 2023** and a **Ph.D. in 2024**, where I specialized in **control systems engineering** under the supervision of **[Prof. Daniel E. Rivera](https://search.asu.edu/profile/29494)**. During my Ph.D., I was part of the **[Control Systems Engineering Lab](https://labs.engineering.asu.edu/csel/)**, where I developed dynamic models and optimization strategies for complex process systems including **chemical processes**, **healthcare technologies**, and **supply chain optimization**  -- skills I now integrate with ML, and AI in **robotic systems**.
 
 I thrive on building models that make sense of complexity and designing control strategies that make machines smarter, safer, and more adaptable. My research interests include:
 
@@ -52,6 +52,6 @@ I'm currently **open to full-time opportunities** where I can bring a control sy
 <div class="Vedios">
   <h2>Featured Video</h2>
   <div class="video-container">
-  {% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY" class="img-fluid rounded z-depth-1" width="560" height="315" caption="Better Notifications for Better Health" %}
+  {% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY" class="img-fluid rounded z-depth-1" class="img-fluid w-100" max-width="100%" caption="Better Notifications for Better Health" %}
   </div>
 </div>
