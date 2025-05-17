@@ -1,9 +1,8 @@
 {
   "basics": {
     "name": "Mohamed El Mistiri",
-    "label": "Ph.D. Candidate in Chemical Engineering",
+    "label": "Postdoctoral Research Scientist",
     "email": "melmisti@asu.edu",
-    "phone": "480-799-8462",
     "location": {
       "address": "Mail Stop 876106, SEMTE, Arizona State University",
       "postalCode": "85287-6106",
@@ -28,9 +27,7 @@
       "endDate": "2024-05-01",
       "gpa": "4.00",
       "courses": [
-        "System Identification",
-        "Model Predictive Control",
-        "Behavioral Modeling"
+        "Dean’s Dissertation Award"
       ],
       "thesis": {
         "title": "System Identification and Control Systems Engineering Approaches for Optimal and Practical Personalized mHealth Interventions for Physical Activity",
@@ -42,6 +39,7 @@
       "institution": "Arizona State University",
       "area": "Chemical Engineering",
       "studyType": "M.S.",
+      "startDate": "2019-08-01",
       "endDate": "2023-12-01",
       "gpa": "4.00"
     },
