@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>660 S Mill Ave,</p>
-    <p>Tempe, AZ 85281</p>
+    <p>Mail Stop 8809, Arizona State University</p>
+    <p>Tempe, AZ 85287-6106</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -52,6 +52,6 @@ I'm currently **open to full-time opportunities** where I can bring a control sy
 <div class="Vedios">
   <h2>Featured Video</h2>
   <div class="video-container">
-  {% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY" class="img-fluid rounded z-depth-1" class="img-fluid w-100" max-width="100%" width="560" height="560" caption="Better Notifications for Better Health" %}
+  {% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY" class="img-fluid rounded z-depth-1" class="img-fluid w-100" width="560" height="860" caption="Better Notifications for Better Health" %}
   </div>
 </div>
