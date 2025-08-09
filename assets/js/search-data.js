@@ -50,6 +50,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "projects-role-of-data-in-fine-tuning-llms-for-reasoning-tasks",
+          title: 'Role of Data in Fine-Tuning LLMs for Reasoning Tasks',
+          description: "[&quot;Empirically evaluated role of data construction and training recipes for finetuning of LLMs for reasoning tasks. The project created OpenThought finetuned models, whose early versions matched the DeepSeek-R1 performance on AIME and LiveCodeBench etc.\&quot;&quot;]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/open_thoughts/";
+            },},{id: "projects-llms-for-reinforcement-learning",
+          title: 'LLMs for Reinforcement Learning',
+          description: "[&quot;Developed ProPS and ProPS+ to prompt LLMs for generating parameterized RL policies after linguistic and numerical reasoning. The iteratively improve through closed loop feedback to the LLM. Relevant contextual and semantic information about the task is also provided through prompting. Explored 15 different tasks and compared the results with state of the art RL methods. Currently working on finetuning to improve RL optimization capabilities of smaller sized LLMs.&quot;]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/props/";
             },},{
         id: 'social-email',
         title: 'email',
