@@ -1,0 +1,75 @@
+<div class="col">
+  <div class="row d-flex align-items-center">
+    <div class="col-4">
+      {% if project.video %}
+        {%
+          include video.liquid
+          path=project.video
+          width="100%"
+          height="100%"
+          alt=project.thumbnail
+          autoplay=true
+          loop=true
+          muted=true
+        %}
+      {% elsif project.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=project.img
+          sizes = "250px"
+          alt=project.thumbnail
+        %}
+      {% endif %}
+    </div>
+    <div class="col-8">
+      <div class="card-body">
+        <h4 class="card-title">{{ project.title }}</h4>
+        {% for description in project.description %}
+          <p class="card-text">{{ description }}</p>
+        {% endfor %}
+        {% if project.related_publications %}
+          <div class="publications">
+            <h5 class="card-subtitle">Relevant Papers</h5>
+            {% for paper in project.papers %}
+              <div class="paper">
+                <div class="paper-icon">
+                  <div class="icon icon-spacing"><i class="fa fa-arrow-right"></i></div>
+                </div>
+                {% reference paper %}
+              </div>
+            {% endfor %}
+          </div>
+        {% endif %}
+        <div class="row ml-1 mr-1 p-0">
+          {% if project.github %}
+            {% for github in project.github %}
+              {% assign tooltip = 'Code Repository' %}
+              <div class="github-icon">
+                <div class="icon icon-spacing" data-toggle="tooltip" title="{{ project.github_tooltip[forloop.index0] | default: tooltip }}">
+                  <a href="{{ github }}"><i class="fa-brands fa-github gh-icon"></i></a>
+                </div>
+                {% if project.github_stars %}
+                  <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                    <i class="fa-solid fa-star"></i>
+                    <span id="{{ project.github_stars }}-stars"></span>
+                  </span>
+                {% endif %}
+              </div>
+            {% endfor %}
+          {% endif %}
+          {% if project.website %}
+            {% for website in project.website %}
+              {% assign tooltip = 'Project Website' %}
+              <div class="website-icon">
+                <div class="icon icon-spacing" data-toggle="tooltip" title="{{ project.website_tooltip[forloop.index0] | default: tooltip }}">
+                  <a href="{{ project.website }}"><i class="fa fa-link"></i></a>
+                </div>
+              </div>
+            {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

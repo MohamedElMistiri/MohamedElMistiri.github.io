@@ -40,6 +40,11 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <div id="projects" style="margin-bottom: 4rem;"></div>
+    <h2 class="post-title">projects</h2>
+    {% include projects.liquid %}
+
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>

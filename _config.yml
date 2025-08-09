@@ -281,7 +281,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [El Mistiri]
-  first_name: [Mohamed]
+  first_name: [Mohamed, M.]
 
   style: apa
   locale: en
