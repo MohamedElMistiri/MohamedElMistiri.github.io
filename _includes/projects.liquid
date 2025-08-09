@@ -10,6 +10,7 @@
     {% assign categorized_projects = site.projects | where: 'category', category %}
     {% assign sorted_projects = categorized_projects | sort: 'importance' %}
     <div class="row row-cols-1">
+      ->{{ sorted_projects | size }}<-
       {% for project in sorted_projects %}
         {% include project_detail.liquid %}
       {% endfor %}

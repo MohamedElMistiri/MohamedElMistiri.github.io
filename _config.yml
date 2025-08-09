@@ -200,7 +200,6 @@ exclude:
   - _news/announcement_*.md
   - _pages/blog.md
   - _posts/
-  - _projects/
   - _pages/projects.md
   - _pages/teaching.md
   - _pages/repositories.md
