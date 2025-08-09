@@ -51,5 +51,5 @@ I'm currently **open to full-time opportunities** where I can bring a control sy
 
 
 <h2>Featured Video</h2>
-{% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY?si=GEyeNQnJn5INO3Ng" width="100%" height="100%" caption="Better Notifications for Better Health" %}
+{% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY?si=GEyeNQnJn5INO3Ng" width="56rem" height="37.5rem" caption="Better Notifications for Better Health" %}
   
