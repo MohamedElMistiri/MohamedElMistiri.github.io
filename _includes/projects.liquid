@@ -2,6 +2,7 @@
 {% assign all_categories = 'on-going,completed' %}
 <div class="projects">
   {% assign categories = all_categories | split: ',' %}
+  ->{{ categories[0] }}<-
   {% for category in categories %}
     <a id="{{ category }}" href=".#{{ category }}">
       <h2 class="category">{{ category }}</h2>
