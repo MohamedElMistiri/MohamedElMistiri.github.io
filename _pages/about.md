@@ -52,6 +52,6 @@ I'm currently **open to full-time opportunities** where I can bring a control sy
 <div class="Vedios">
   <h2>Featured Video</h2>
   <div class="video-container">
-  {% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY" class="img-fluid rounded z-depth-1" class="img-fluid w-100" width="560" height="860" caption="Better Notifications for Better Health" %}
+  {% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY" class="img-fluid rounded z-depth-1" class="img-fluid w-100" width="100%" height="100%" caption="Better Notifications for Better Health" %}
   </div>
 </div>
