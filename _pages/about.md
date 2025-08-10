@@ -50,6 +50,6 @@ I'm currently **open to full-time opportunities** where I can bring a control sy
 **Let’s connect** — whether it’s to explore research ideas, discuss collaboration, or chat about how we can build smarter, more efficient technologies together.
 
 
-<h2>Featured Video</h2>
+<h2>featured videos</h2>
 {% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY?si=GEyeNQnJn5INO3Ng" width="900px" height="500px" caption="Better Notifications for Better Health" %}
   
