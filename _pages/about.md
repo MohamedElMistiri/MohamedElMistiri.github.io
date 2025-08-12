@@ -30,11 +30,11 @@ latest_posts:
 Mohamed El Mistiri received the B.S. degree in chemical engineering from Arizona State University (ASU), Tempe, AZ, USA, in 2017, the M.S. degree in chemical engineering from ASU, Tempe, AZ, USA, in 2023, and the Ph.D. degree in chemical engineering with a focus on control systems from ASU, Tempe, AZ, USA, in 2024. From 2020 to 2024 he was a member of the Control Systems Engineering Lab in ASU, Tempe, AZ, USA. Since January 2025, he has been a Postdoctoral Research Scholar in the Interactive Robotics Laboratory at ASU, Tempe, AZ, USA. His research interests include control theory, system identification, dynamic modeling, and optimization in process systems, robotics, supply chain management, and healthcare. -->
 
 
-Hi, I'm **Mohamed El Mistiri**, a passionate researcher and engineer driven by curiosity, creativity, and a deep fascination with how intelligent systems interact with the world. I'm currently a **Postdoctoral Research Scholar** at **[Arizona State University’s (ASU)](https://scai.engineering.asu.edu/)** **[Interactive Robotics Laboratory](https://interactive-robotics.engineering.asu.edu/)**, where I work with **[Prof. Heni Ben Amor](https://henibenamor.weebly.com/about.html)** on the exciting intersection of **machine learning**, **artificial intelligence**, and **control systems engineering** in robotics.
+I am **Mohamed El Mistiri**, a researcher and engineer with a deep commitment to advancing intelligent systems through curiosity, creativity, and rigorous problem-solving. I am currently a **Postdoctoral Research Scholar** at **[Arizona State University’s (ASU)](https://scai.engineering.asu.edu/)** **[Interactive Robotics Laboratory](https://interactive-robotics.engineering.asu.edu/)**, where I work with **[Prof. Heni Ben Amor](https://henibenamor.weebly.com/about.html)** on the exciting intersection of **machine learning**, **artificial intelligence**, and **control systems engineering** in robotics.
 
-My academic journey began with a **B.S. in Chemical Engineering** from **[ASU](https://semte.engineering.asu.edu/)** in 2017, followed by an **M.S. in 2023** and a **Ph.D. in 2024**, where I specialized in **control systems engineering** under the supervision of **[Prof. Daniel E. Rivera](https://search.asu.edu/profile/29494)**. During my Ph.D., I was part of the **[Control Systems Engineering Lab](https://labs.engineering.asu.edu/csel/)**, where I developed dynamic models and optimization strategies for complex process systems including **chemical processes**, **healthcare technologies**, and **supply chain optimization**  -- skills I now integrate with ML, and LLMs in **robotic systems**.
+My academic journey began with a **B.S. in Chemical Engineering** from **[ASU](https://semte.engineering.asu.edu/)** in 2017, followed by an **M.S. in 2023** and a **Ph.D. in 2024**, where I specialized in **control systems engineering** under the supervision of **[Prof. Daniel E. Rivera](https://search.asu.edu/profile/29494)**. My dissertation work earned the Dean’s Dissertation Award, recognizing its innovative contributions. During my doctoral work at the **[Control Systems Engineering Lab](https://labs.engineering.asu.edu/csel/)**, I developed **dynamic models** and **optimization strategies** for complex process systems including **chemical processes**, **healthcare technologies**, and **supply chain optimization**. These expertise now inform my work on integrating **control theory**, **machine learning**, and **LLM-based approaches** in **robotic systems**.
 
-I thrive on building models that make sense of complexity and designing control strategies that make machines smarter, safer, and more adaptable. My research interests include:
+I am particularly interested in developing models that elucidate complex system behavior and devising control strategies that make machines more **intelligent, safer**, and **adaptive**. My research interests include:
 
 - Control theory  
 - System identification  
@@ -45,11 +45,11 @@ I thrive on building models that make sense of complexity and designing control 
 
 Especially as they apply to **process industries**, **robotics**, **healthcare**, and **intelligent systems**.
 
-I'm currently **open to full-time opportunities** where I can bring a control systems engineering mindset, hands-on technical expertise, and a collaborative spirit to innovative teams tackling real-world challenges.
+I am currently **open to full-time opportunities** where I can contribute my expertise in control systems engineering, technical implementation, and cross-disciplinary collaboration to address challenging, real-world problems.
 
-**Let’s connect** — whether it’s to explore research ideas, discuss collaboration, or chat about how we can build smarter, more efficient technologies together.
+**Let’s connect** — whether to explore research ideas, discuss collaboration, or envision ways to develop smarter, more efficient technologies together.
 
 
-<h2>featured videos</h2>
-{% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY?si=GEyeNQnJn5INO3Ng" width="900px" height="500px" caption="Better Notifications for Better Health" %}
+<h2>Featured Videos</h2>
+{% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY?si=GEyeNQnJn5INO3Ng" width="300px" height="250px" caption="Better Notifications for Better Health" %}
   
