@@ -64,7 +64,7 @@ Especially as they apply to **process industries**, **robotics**, **healthcare**
 {% include image-float.liquid 
    image="/assets/img/ASU_Thrive.png" 
    alt="ASU Thrive Article" 
-   width="900px"
+   width="700px"
    content="I am particularly interested in developing models that elucidate complex system behavior and devising control strategies that make machines more **intelligent, safer**, and **adaptive**. My research interests include:
 
       - Control theory  
