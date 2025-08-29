@@ -35,9 +35,9 @@ My academic journey began with a **B.S. in Chemical Engineering** from **[ASU](h
 
 
 <div style="clear: both;">
-  <img src="/assets/img/ASU-Thrive.png" alt="ASU Thrive Article, Impact Makers: Dr Heni Ben Amor and Dr Mohamed El Mistiri Make Robots to Assist Us in Our Homes" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
+  <img src="assets/img/ASU-Thrive.png" alt="ASU Thrive Article, Impact Makers: Dr Heni Ben Amor and Dr Mohamed El Mistiri Make Robots to Assist Us in Our Homes" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
   
-  I am particularly interested in developing models that elucidate complex system behavior and devising control strategies that make machines more **intelligent, safer**, and **adaptive**. My research interests include:
+  <!-- I am particularly interested in developing models that elucidate complex system behavior and devising control strategies that make machines more **intelligent, safer**, and **adaptive**. My research interests include:
 
 - Control theory  
 - System identification  
@@ -46,7 +46,19 @@ My academic journey began with a **B.S. in Chemical Engineering** from **[ASU](h
 - Dynamic modeling  
 - Optimization  
 
-Especially as they apply to **process industries**, **robotics**, **healthcare**, and **intelligent systems**.
+Especially as they apply to **process industries**, **robotics**, **healthcare**, and **intelligent systems**. -->
+<p>I am particularly interested in developing models that elucidate complex system behavior and devising control strategies that make machines more <strong>intelligent, safer</strong>, and <strong>adaptive</strong>. My research interests include:</p>
+
+  <ul>
+    <li>Control theory</li>
+    <li>System identification</li>
+    <li>Machine Learning</li>
+    <li>LLMs</li>
+    <li>Dynamic modeling</li>
+    <li>Optimization</li>
+  </ul>
+
+  <p>Especially as they apply to <strong>process industries</strong>, <strong>robotics</strong>, <strong>healthcare</strong>, and <strong>intelligent systems</strong>.</p>
 </div>
 
 
