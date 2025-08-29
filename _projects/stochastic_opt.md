@@ -2,7 +2,7 @@
 title: 'Stochastic Optimization: Renewable Energy Electric Grid Optimization'
 description:
   - Developed and evaluated a randomized variant of the Progressive Hedging algorithm to efficiently solve large-scale multistage stochastic programming problems. Demonstrated significant computational speedups with minimal loss in solution quality, using hydroelectric power scheduling as a case study.
-img: assets/img/electric_grid_diagram.png
+img: assets/img/electric_grid_diagram_1.png
 importance: 1
 category: completed
 github:
