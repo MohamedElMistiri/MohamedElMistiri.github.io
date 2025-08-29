@@ -35,7 +35,7 @@ My academic journey began with a **B.S. in Chemical Engineering** from **[ASU](h
 
 
 <div style="clear: both;">
-  <img src="assets/img/ASU-Thrive.png" alt="ASU Thrive Article, Impact Makers: Dr Heni Ben Amor and Dr Mohamed El Mistiri Make Robots to Assist Us in Our Homes" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
+  <img src="assets/img/ASU_Thrive.png" alt="ASU Thrive Article, Impact Makers: Dr Heni Ben Amor and Dr Mohamed El Mistiri Make Robots to Assist Us in Our Homes" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
   
   <!-- I am particularly interested in developing models that elucidate complex system behavior and devising control strategies that make machines more **intelligent, safer**, and **adaptive**. My research interests include:
 
