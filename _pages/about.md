@@ -64,17 +64,15 @@ Especially as they apply to **process industries**, **robotics**, **healthcare**
 {% include image-float.liquid 
    image="/assets/img/ASU_Thrive.png" 
    alt="ASU Thrive Article" 
-   width="1000px"
+   width="900px"
    content="I am particularly interested in developing models that elucidate complex system behavior and devising control strategies that make machines more **intelligent, safer**, and **adaptive**. My research interests include:
 
-      <ul style='padding-left: 40px;'>
-        <li>Control theory</li>
-        <li>System identification</li>
-        <li>Machine Learning</li>
-        <li>LLMs</li>
-        <li>Dynamic modeling</li>
-        <li>Optimization</li>
-      </ul> 
+      - Control theory  
+      - System identification  
+      - Machine Learning
+      - LLMs
+      - Dynamic modeling  
+      - Optimization  
 
   Especially as they apply to **process industries**, **robotics**, **healthcare**, and **intelligent systems**."
 %}
