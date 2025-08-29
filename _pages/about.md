@@ -66,14 +66,17 @@ Especially as they apply to **process industries**, **robotics**, **healthcare**
    alt="ASU Thrive Article" 
    width="600px"
    content="I am particularly interested in developing models that elucidate complex system behavior and devising control strategies that make machines more **intelligent, safer**, and **adaptive**. My research interests include:
-    - Control theory  
-    - System identification  
-    - Machine Learning
-    - LLMs
-    - Dynamic modeling  
-    - Optimization
-  Especially as they apply to **process industries**, **robotics**, **healthcare**, and **intelligent systems**."
+    "
 %}
+
+  - Control theory  
+  - System identification  
+  - Machine Learning
+  - LLMs
+  - Dynamic modeling  
+  - Optimization
+  
+Especially as they apply to **process industries**, **robotics**, **healthcare**, and **intelligent systems**.
 
 
 I am currently **open to full-time opportunities** where I can contribute my expertise in control systems engineering, technical implementation, and cross-disciplinary collaboration to address challenging, real-world problems.
