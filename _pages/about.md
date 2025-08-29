@@ -67,16 +67,12 @@ Especially as they apply to **process industries**, **robotics**, **healthcare**
    width="600px"
    content="I am particularly interested in developing models that elucidate complex system behavior and devising control strategies that make machines more **intelligent, safer**, and **adaptive**. My research interests include:
 
-    <div class='custom-list-indent'>
-
       - Control theory  
       - System identification  
       - Machine Learning
       - LLMs
       - Dynamic modeling  
       - Optimization  
-
-    </div> 
 
   Especially as they apply to **process industries**, **robotics**, **healthcare**, and **intelligent systems**."
 %}
