@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Mail Stop 8809, Arizona State University</p>
-    <p>Tempe, AZ 85287-6106</p>
+    
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -34,7 +33,11 @@ I am **Mohamed El Mistiri**, a researcher and engineer with a deep commitment to
 
 My academic journey began with a **B.S. in Chemical Engineering** from **[ASU](https://semte.engineering.asu.edu/)** in 2017, followed by an **M.S. in 2023** and a **Ph.D. in 2024**, where I specialized in **control systems engineering** under the supervision of **[Prof. Daniel E. Rivera](https://search.asu.edu/profile/29494)**. My dissertation work earned the Dean’s Dissertation Award, recognizing its innovative contributions. During my doctoral work at the **[Control Systems Engineering Lab](https://labs.engineering.asu.edu/csel/)**, I developed **dynamic models** and **optimization strategies** for complex process systems including **chemical processes**, **healthcare technologies**, and **supply chain optimization**. These expertise now inform my work on integrating **control theory**, **machine learning**, and **LLM-based approaches** in **robotic systems**.
 
-I am particularly interested in developing models that elucidate complex system behavior and devising control strategies that make machines more **intelligent, safer**, and **adaptive**. My research interests include:
+
+<div style="clear: both;">
+  <img src="/assets/img/ASU-Thrive.png" alt="ASU Thrive Article, Impact Makers: Dr Heni Ben Amor and Dr Mohamed El Mistiri Make Robots to Assist Us in Our Homes" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
+  
+  I am particularly interested in developing models that elucidate complex system behavior and devising control strategies that make machines more **intelligent, safer**, and **adaptive**. My research interests include:
 
 - Control theory  
 - System identification  
@@ -44,6 +47,8 @@ I am particularly interested in developing models that elucidate complex system 
 - Optimization  
 
 Especially as they apply to **process industries**, **robotics**, **healthcare**, and **intelligent systems**.
+</div>
+
 
 I am currently **open to full-time opportunities** where I can contribute my expertise in control systems engineering, technical implementation, and cross-disciplinary collaboration to address challenging, real-world problems.
 
