@@ -60,9 +60,9 @@ ninja.data = [{
           description: "[&quot;Developed ProPS and ProPS+ to prompt LLMs for generating parameterized RL policies after linguistic and numerical reasoning. The iteratively improve through closed loop feedback to the LLM. Relevant contextual and semantic information about the task is also provided through prompting. Explored 15 different tasks and compared the results with state of the art RL methods. Currently working on finetuning to improve RL optimization capabilities of smaller sized LLMs.&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/props/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-stochastic-optimization-renewable-energy-electric-grid-optimization",
+          title: 'Stochastic Optimization: Renewable Energy Electric Grid Optimization',
+          description: "[&quot;Developed and evaluated a randomized variant of the Progressive Hedging algorithm to efficiently solve large-scale multistage stochastic programming problems. Demonstrated significant computational speedups with minimal loss in solution quality, using hydroelectric power scheduling as a case study.&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/stochastic_opt/";
             },},{
