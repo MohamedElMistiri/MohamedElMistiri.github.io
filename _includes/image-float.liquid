@@ -1,6 +1,8 @@
 <div style="clear: both;">
-  <img src="{{ include.image }}" alt="{{ include.alt }}" style="float: left; margin-right: 20px; margin-bottom: 10px; width: {{ include.width | default: '300px' }};">
-  {{ include.content | markdownify }}
+  <img src="{{ include.image }}" alt="{{ include.alt }}" style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px; width: {{ include.width | default: '300px' }};">
+  <div class="float-content">
+    {{ include.content | markdownify }}
+  </div>
 </div>
 <style>
   .float-content ul {
