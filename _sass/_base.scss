@@ -4,6 +4,10 @@
 
 // Typography
 
+h2 {
+  font-weight: 500; // This makes h2 elements bold
+}
+
 p,
 h1,
 h2,
@@ -684,11 +688,20 @@ footer.sticky-bottom {
 
   h2.category {
     color: var(--global-divider-color);
-    border-bottom: 1px solid var(--global-divider-color);
+    border-bottom: none; // Remove the full-width border
     padding-top: 0.5rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
     text-align: right;
+    position: relative; // Needed for the pseudo-element positioning
+  }
+
+  // Add a pseudo-element for the half-width border
+  h2.category::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 0; // Start from right
+    width: 65%; // Half-width
+    border-bottom: 1px solid var(--global-divider-color);
   }
 }
 

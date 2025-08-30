@@ -64,26 +64,42 @@ Especially as they apply to **process industries**, **robotics**, **healthcare**
 {% include image-float.liquid 
    image="/assets/img/ASU_Thrive.png" 
    alt="ASU Thrive Article" 
-   width="600px"
+   width="37.5rem"
    content="I am particularly interested in developing models that elucidate complex system behavior and devising control strategies that make machines more **intelligent, safer**, and **adaptive**. My research interests include:
-    "
-%}
-
-  - Control theory  
-  - System identification  
-  - Machine Learning
-  - LLMs
-  - Dynamic modeling  
-  - Optimization
+    
+- Control theory  
+- System identification  
+- Machine Learning
+- LLMs
+- Dynamic modeling  
+- Optimization
   
 Especially as they apply to **process industries**, **robotics**, **healthcare**, and **intelligent systems**.
+"
+%}
+
+  
 
 
 I am currently **open to full-time opportunities** where I can contribute my expertise in control systems engineering, technical implementation, and cross-disciplinary collaboration to address challenging, real-world problems.
 
 **Let’s connect** — whether to explore research ideas, discuss collaboration, or envision ways to develop smarter, more efficient technologies together.
 
+<div style="margin-top: 20px;"></div>
 
-<h2>Featured Videos</h2>
-{% include video.liquid path="https://www.youtube.com/embed/Jbkvr9yBTbY?si=GEyeNQnJn5INO3Ng" width="300px" height="250px" caption="Better Notifications for Better Health" %}
-  
+<h2 style="margin-bottom: 0.2rem;">Featured Videos</h2>
+<hr style="margin-top: 0.2rem;">
+{% include video-float.liquid 
+   path="https://www.youtube.com/embed/Jbkvr9yBTbY?si=GEyeNQnJn5INO3Ng" 
+   width="400px" 
+   height="300px"
+   content="
+
+This video introduces a groundbreaking NIH-funded that reimagines how intelligent systems interact with individuals through the lens of **Just-in-Time (JIT) States**. The research explores **Just-in-Time Adaptive Interventions (JITAIs)** in delivering support (e.g., like walking prompts and adaptive step goals) **precisely when individuals are most likely to benefit**, based on their personal behavior patterns and context.
+
+Over a 270-day period, data from 50 participants was used to model three dynamic behavioral states: **need, opportunity, and receptivity**. By applying advanced data-driven techniques, the team was able to identify at least one reliably predictive 'teachable moment' for **91% of participants**--moments when an intervention would be both welcome and effective. This approach enabled the delivery of personalized support that increased physical activity while minimizing notification fatigue.
+
+This work lays the foundation for intelligent, human-centered health technologies that adapt to the rhythms of everyday life."
+%}
+
+<div style="margin-top: 20px;"></div>

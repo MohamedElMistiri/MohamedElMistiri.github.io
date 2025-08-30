@@ -36,7 +36,19 @@
                 <div class="paper-icon">
                   <div class="icon icon-spacing"><i class="fa fa-arrow-right"></i></div>
                 </div>
-                {% reference paper %}
+                {% capture reference %}{% reference paper %}{% endcapture %}
+                {% if reference contains "href=" %}
+                  {{ reference }}
+                {% else %}
+                  {% assign citation = site.data.bibliography | where: "id", paper | first %}
+                  {% if citation.url or citation.doi %}
+                    <a href="{{ citation.url | default: citation.doi }}" target="_blank" rel="noopener noreferrer">
+                      {{ reference }}
+                    </a>
+                  {% else %}
+                    {{ reference }}
+                  {% endif %}
+                {% endif %}
               </div>
             {% endfor %}
           </div>

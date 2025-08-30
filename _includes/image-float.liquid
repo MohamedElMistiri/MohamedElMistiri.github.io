@@ -1,15 +1,15 @@
 <div style="clear: both;">
-  <img src="{{ include.image }}" alt="{{ include.alt }}" style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 10px; width: {{ include.width | default: '300px' }};">
+  <img src="{{ include.image }}" alt="{{ include.alt }}" style="float: left; margin-right: 20px; margin-bottom: 10px; margin-top: 15px; width: {{ include.width | default: '300px' }};">
   <div class="float-content">
     {{ include.content | markdownify }}
   </div>
+  <style>
+    .float-content ul {
+      padding-left: 41rem !important;
+      margin-left: 0 !important;
+    }
+    .float-content li {
+      margin-left: 0 !important;
+    }
+  </style>
 </div>
-<style>
-  .float-content ul {
-    padding-left: 40px;
-  }
-  /* Ensure we don't override theme styling */
-  .float-content ul li {
-    /* Inherit all styling from your theme */
-  }
-</style>
