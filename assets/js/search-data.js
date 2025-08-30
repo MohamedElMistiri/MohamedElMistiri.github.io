@@ -50,13 +50,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "projects-decentralized-control-dual-decomposition-for-smart-grid-optimization",
+          title: 'Decentralized Control: Dual Decomposition for Smart Grid Optimization',
+          description: "[&quot;Designed and implemented a distributed optimization framework to manage energy consumption across a smart grid with multiple subscribers and time slots. Subscriber-side convex optimization was performed using MATLAB and CVX, while grid-level coordination was achieved through dual decomposition and iterative updates of Lagrange multipliers. Parallel computing accelerated convergence, and data analysis confirmed effective load balancing and alignment with generation capacity.&quot;, &quot;Adapted from  P. Samadi, A.H. Mohsenian-Rad, R. Schober, V. W. S. Wong and J. Jatskevich, Optimal Real-Time Pricing Algorithm Based on Utility Maximization for Smart Grid, 2010 First IEEE International Conference on Smart Grid Communications, 2010, pp. 415-420&quot;]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dual_decomposition/";
             },},{id: "projects-role-of-data-in-fine-tuning-llms-for-reasoning-tasks",
           title: 'Role of Data in Fine-Tuning LLMs for Reasoning Tasks',
           description: "[&quot;Empirically evaluated role of data construction and training recipes for finetuning of LLMs for reasoning tasks. The project created OpenThought finetuned models, whose early versions matched the DeepSeek-R1 performance on AIME and LiveCodeBench etc.\&quot;&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/open_thoughts/";
-            },},{id: "projects-llms-for-reinforcement-learning",
-          title: 'LLMs for Reinforcement Learning',
+            },},{id: "projects-llms-for-reinforcement-learning-prompted-policy-search-props",
+          title: 'LLMs for Reinforcement Learning: Prompted Policy Search (ProPS)',
           description: "[&quot;Developed ProPS and ProPS+ to prompt LLMs for generating parameterized RL policies after linguistic and numerical reasoning. The iteratively improve through closed loop feedback to the LLM. Relevant contextual and semantic information about the task is also provided through prompting. Explored 15 different tasks and compared the results with state of the art RL methods. Currently working on finetuning to improve RL optimization capabilities of smaller sized LLMs.&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/props/";
