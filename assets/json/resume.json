@@ -71,7 +71,9 @@
       "highlights": [
         "Explored natural language-driven reinforcement learning for sample-efficient policy search",
         "Integrated LLM-based optimization with MPC for robotic arm trajectory planning",
-        "Mentored graduate students on VLA model fine-tuning and implementation for robotic applications"
+        "Set up bimanual robot control and guided graduate students on ML projects for bimanual manipulation",
+        "Mentored graduate students on VLA model fine-tuning and implementation for robotic applications",
+        "Collaborated with industry research partners to support and contribute to successful proposals for grant funding"
       ]
     },
     {
@@ -153,6 +155,7 @@
         "SciPy",
         "CasADi",
         "acados",
+        "ROS",
         "Gazebo",
         "CoppeliaSim"
       ]
@@ -255,6 +258,14 @@
   ],
   "references": [],
   "projects": [
+    {
+      "name": "LLM Optimized Closed-Loop Model Estimation",
+      "description": "Developed a closed-loop model estimation framework optimized for large language models, improving prediction accuracy and efficiency."
+    },
+    {
+      "name": "Bimanual Robot Control",
+      "description": "Set up bimanual robot control and guided graduate students on ML projects for bimanual manipulation"
+    },
     {
       "name": "Decentralized Control: Smart Grid Optimization",
       "description": "Investigated a real-time pricing algorithm for smart grid optimization; implemented dual decomposition in MATLAB; compared performance vs fixed pricing."
