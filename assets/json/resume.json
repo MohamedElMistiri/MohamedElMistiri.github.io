@@ -283,10 +283,6 @@
       "description": "Developed nonlinear control algorithms accounting for ground effect (MATLAB/Simulink); achieved 25% faster landings vs PID and eliminated damaging oscillations."
     },
     {
-      "name": "Robotic Arm Control with LLMs",
-      "description": "Implemented LLM-based optimization for robotic arm trajectory planning, integrating with Model Predictive Control."
-    },
-    {
       "name": "Low Carbon Emission SMR Hydrogen Production",
       "description": "Capstone project designing an efficient hydrogen production facility integrating SMR, PSA, and WGS technologies."
     }
