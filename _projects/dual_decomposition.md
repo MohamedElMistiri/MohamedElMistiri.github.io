@@ -7,7 +7,7 @@ img: assets/img/dual-decomposition-banner.png
 importance: 2
 category: completed
 github:
-  - https://github.com/MohamedElMistiri/Stochastic_Optimization_PRH
+  - https://github.com/MohamedElMistiri/Dual-Decomposition-Smart-Grid-Optimization
 github_tooltip:
   - Project Repo
 thumbnail: Dual Decomposition Algorithm for Smart Grid Online Optimization
