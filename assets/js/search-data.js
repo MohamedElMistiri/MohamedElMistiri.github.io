@@ -50,11 +50,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "projects-personalized-mhealth-control-systems-for-mhealth-interventions",
+          title: 'Personalized mHealth: Control Systems for mHealth Interventions',
+          description: "[&quot;Designed and implemented a system identification framework to analyze physical activity behavior using personalized, temporally dense data. Applied Singular Spectrum Analysis (SSA) to reveal that daily step count signals are composed of separable, uncorrelated components—each changing at different frequencies (trend, weekly, and multi-day cycles). Combined this with Model-on-Demand (MoD) estimation to capture nonlinear, context-sensitive dynamics in response to adaptive goals and walking notifications. Validated the approach on data from the NIH-funded JustWalk JITAI study, showing how behavioral responses vary based on need, opportunity, and receptivity.&quot;]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/JWJITAI/";
             },},{id: "projects-llm-optimized-closed-loop-model-estimation",
           title: 'LLM Optimized Closed-Loop Model Estimation',
           description: "[&quot;Developed a model estimation pipeline using GPT-3.5 (ChatGPT-o3-mini) for closed-loop identification of physical parameters of an inverted pendulum system, including masses and segment lengths. The estimated model was integrated into a Model Predictive Controller (MPC) to stabilize the system. The LLM explored a highly nonlinear parameter space, balancing exploration and exploitation to minimize the controller’s cost function. Despite not converging to true physical values, the LLM identified parameter sets that yielded superior control performance. Simulations demonstrated effective system stabilization across iterations, with visual comparisons showing improved trajectory tracking and reduced error. The approach was extended to a single pendulum setup on a UR5 robotic arm, validating the method’s adaptability and robustness.&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/LLM-closed-loop/";
+            },},{id: "projects-personalized-mhealth-control-systems-for-mhealth-interventions",
+          title: 'Personalized mHealth: Control Systems for mHealth Interventions',
+          description: "[&quot;Designed and implemented a data-driven framework to personalize physical activity goals using system identification and three-degrees-of-freedom Kalman-filter based hybrid model predictive control (3DoF-KF HMPC) for a mobile health (mHealth) application with human in the loop. Built participant-specific behavioral models from smartwatch data and delivered adaptive step goals and rewards via a mobile app. Simulated closed-loop interventions under uncertainty using Monte Carlo methods, demonstrating robust performance and dynamic goal adjustment. This work was essential in the development and implementation of the first of its kind NIH-funded closed-loop preventative medicine intervention clinical trial, under the name of YourMove.&quot;]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/YourMove/";
             },},{id: "projects-decentralized-control-dual-decomposition-for-smart-grid-optimization",
           title: 'Decentralized Control: Dual Decomposition for Smart Grid Optimization',
           description: "[&quot;Designed and implemented a distributed optimization framework to manage energy consumption across a smart grid with multiple subscribers and time slots. Subscriber-side convex optimization was performed using MATLAB and CVX, while grid-level coordination was achieved through dual decomposition and iterative updates of Lagrange multipliers. Parallel computing accelerated convergence, and data analysis confirmed effective load balancing and alignment with generation capacity.&quot;, &quot;Adapted from  P. Samadi, A.H. Mohsenian-Rad, R. Schober, V. W. S. Wong and J. Jatskevich, Optimal Real-Time Pricing Algorithm Based on Utility Maximization for Smart Grid, 2010 First IEEE International Conference on Smart Grid Communications, 2010, pp. 415-420&quot;]",
