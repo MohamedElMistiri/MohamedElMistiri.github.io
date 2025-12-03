@@ -35,25 +35,38 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+        
+        <!-- Social icons under profile picture -->
+        {% if page.social %}
+          <div class="social" style="margin-top: 15px;">
+            <div class="contact-icons" style="font-size: 2rem;">{% include social.liquid %}</div>
+          </div>
+        {% endif %}
       </div>
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
+
+    <!-- News -->
+    {% if page.announcements and page.announcements.enabled %}
+      <h2 style="margin-bottom: 0.2rem;">
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+      </h2>
+      <hr style="margin-top: 0.2rem;">
+      {% include news.liquid limit=true %}
+    {% endif %}
+    
+    <!-- Featured Videos -->
+    {% if page.featured_videos and page.featured_videos.enabled %}
+      {% comment %} <div style="margin-top: 40px;"></div> {% endcomment %}
+      {% include featured_videos.liquid %}
+    {% endif %}
 
     <div id="projects" style="color: inherit">
       <h2 style="margin-bottom: 0.2rem;">Selected Projects</h2>
       <hr style="margin-top: 0.2rem; margin-bottom: 0.2rem;">
     </div>
     {% include projects.liquid %}
-
-
-    <!-- News -->
-    {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}

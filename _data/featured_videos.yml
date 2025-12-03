@@ -1,0 +1,10 @@
+- path: "https://www.youtube.com/embed/Jbkvr9yBTbY?si=GEyeNQnJn5INO3Ng"
+  width: "400px"
+  height: "320px"
+  align: "left"
+  content: |
+    This video introduces a groundbreaking NIH-funded that reimagines how intelligent systems interact with individuals through the lens of **Just-in-Time (JIT) States**. The research explores **Just-in-Time Adaptive Interventions (JITAIs)** in delivering support (e.g., like walking prompts and adaptive step goals) **precisely when individuals are most likely to benefit**, based on their personal behavior patterns and context.
+
+    Over a 270-day period, data from 50 participants was used to model three dynamic behavioral states: **need, opportunity, and receptivity**. By applying advanced data-driven techniques, the team was able to identify at least one reliably predictive 'teachable moment' for **91% of participants**--moments when an intervention would be both welcome and effective. This approach enabled the delivery of personalized support that increased physical activity while minimizing notification fatigue.
+
+    This work lays the foundation for intelligent, human-centered health technologies that adapt to the rhythms of everyday life.

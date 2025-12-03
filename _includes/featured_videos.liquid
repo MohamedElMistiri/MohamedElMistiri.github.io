@@ -1,0 +1,18 @@
+<div style="margin-top: 40px;"></div>
+
+<h2 style="margin-bottom: 0.2rem;">Featured Videos</h2>
+<hr style="margin-top: 0.2rem;">
+
+{% assign videos = site.data.featured_videos %}
+{% for video in videos %}
+  {% include video-float.liquid 
+     path=video.path
+     width=video.width
+     height=video.height
+     align=video.align
+     content=video.content
+  %}
+  {% unless forloop.last %}
+    {% comment %} <div style="clear: both; margin-top: 40px;"></div> {% endcomment %}
+  {% endunless %}
+{% endfor %}

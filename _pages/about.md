@@ -15,9 +15,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
+
+featured_videos:
+  enabled: true # includes featured videos section
 
 latest_posts:
   enabled: false
@@ -96,26 +99,6 @@ Especially as they apply to **process industries**, **robotics**, **healthcare**
 
 I am currently **open to full-time opportunities** where I can leverage my expertise in control systems engineering, hands-on technical implementation, and collaborative work across disciplines to tackle complex, real-world challenges. My goal is to contribute meaningfully to innovative teams and projects that strive to advance technology, improve processes, and create impactful solutions for society.
 
-<!-- **Let’s connect** — whether you’re interested in exploring new research directions, discussing potential collaborations, or envisioning ways we can work together to develop smarter, safer, and more efficient technologies. I welcome conversations with fellow researchers, industry professionals, and organizations seeking to make a difference through intelligent systems and creative problem-solving. -->
+<!-- **Let's connect** — whether you're interested in exploring new research directions, discussing potential collaborations, or envisioning ways we can work together to develop smarter, safer, and more efficient technologies. I welcome conversations with fellow researchers, industry professionals, and organizations seeking to make a difference through intelligent systems and creative problem-solving. -->
 
-**Let’s connect** — whether to explore research ideas, discuss collaboration, or envision ways to develop smarter, safer, more efficient technologies together.
-
-<div style="margin-top: 40px;"></div>
-
-<h2 style="margin-bottom: 0.2rem;">Featured Videos</h2>
-<hr style="margin-top: 0.2rem;">
-{% include video-float.liquid 
-   path="https://www.youtube.com/embed/Jbkvr9yBTbY?si=GEyeNQnJn5INO3Ng" 
-   width="400px" 
-   height="320px"
-   align="left"
-   content="
-
-This video introduces a groundbreaking NIH-funded that reimagines how intelligent systems interact with individuals through the lens of **Just-in-Time (JIT) States**. The research explores **Just-in-Time Adaptive Interventions (JITAIs)** in delivering support (e.g., like walking prompts and adaptive step goals) **precisely when individuals are most likely to benefit**, based on their personal behavior patterns and context.
-
-Over a 270-day period, data from 50 participants was used to model three dynamic behavioral states: **need, opportunity, and receptivity**. By applying advanced data-driven techniques, the team was able to identify at least one reliably predictive 'teachable moment' for **91% of participants**--moments when an intervention would be both welcome and effective. This approach enabled the delivery of personalized support that increased physical activity while minimizing notification fatigue.
-
-This work lays the foundation for intelligent, human-centered health technologies that adapt to the rhythms of everyday life."
-%}
-
-<div style="margin-top: 20px;"></div>
+**Let's connect** — whether to explore research ideas, discuss collaboration, or envision ways to develop smarter, safer, more efficient technologies together.
