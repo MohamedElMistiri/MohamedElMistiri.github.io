@@ -50,7 +50,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-personalized-mhealth-control-systems-for-mhealth-interventions",
+            },},{id: "news-thrilled-to-present-irl-s-work-at-asu-s-southwest-robotics-symposium-two-posters-on-llms-for-code-as-policy-and-closed-loop-parameter-optimization-the-latter-is-selected-for-top-5-oral-presentation",
+          title: 'Thrilled to present IRL’s work at ASU’s SouthWest Robotics Symposium: two posters on...',
+          description: "",
+          section: "News",},{id: "news-i-am-pleased-to-announce-that-one-of-the-first-students-i-helped-mentor-just-successfully-defended-his-master-s-thesis-congratulations-thibaut",
+          title: 'I am pleased to announce that one of the first students I helped...',
+          description: "",
+          section: "News",},{id: "news-i-am-excited-to-share-that-i-will-be-attending-neurips-2025-and-presenting-my-work-during-the-thursday-session-looking-forward-to-connecting-with-fellow-researchers-and-discussing-new-ideas",
+          title: 'I am excited to share that I will be attending NeurIPS 2025 and...',
+          description: "",
+          section: "News",},{id: "projects-personalized-mhealth-control-systems-for-mhealth-interventions",
           title: 'Personalized mHealth: Control Systems for mHealth Interventions',
           description: "[&quot;Designed and implemented a system identification framework to analyze physical activity behavior using personalized, temporally dense data. Applied Singular Spectrum Analysis (SSA) to reveal that daily step count signals are composed of separable, uncorrelated components—each changing at different frequencies (trend, weekly, and multi-day cycles). Combined this with Model-on-Demand (MoD) estimation to capture nonlinear, context-sensitive dynamics in response to adaptive goals and walking notifications. Validated the approach on data from the NIH-funded JustWalk JITAI study, showing how behavioral responses vary based on need, opportunity, and receptivity.&quot;]",
           section: "Projects",handler: () => {
